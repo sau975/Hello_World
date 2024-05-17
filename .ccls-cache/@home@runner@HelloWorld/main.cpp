@@ -1,9 +1,16 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
+
 int namaste();
 int addTwoNumber();
+int SimplePyramid();
+int FlippedSimplePyramid();
+int InvertedPyramid();
 
 int main() {
   namaste();
-  addTwoNumber();
+  // addTwoNumber();
+  SimplePyramid();
+  FlippedSimplePyramid();
+  InvertedPyramid();
 }
